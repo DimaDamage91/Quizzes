@@ -1,13 +1,13 @@
 # dependencies
-/node_modules
-/.pnp
+node_modules/
+.pnp
 .pnp.js
 
 # testing
-/coverage
+coverage/
 
 # production
-/build
+build/
 
 # misc
 .DS_Store
@@ -29,5 +29,5 @@ yarn-error.log*
 *.njsproj
 *.sln
 
-# parcel-bundler cache (https://medium.com/@sahilkkrazy/using-parcel-for-react-apps-bd426fbd6ad3)
-.cache
+# parcel-bundler cache
+.cache/
